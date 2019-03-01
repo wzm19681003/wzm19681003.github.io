@@ -11,7 +11,7 @@ comments: true
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - 它将教你如何将常规文本转换为粗体/斜体/标题/表格等。
 **Here is some bold text**
 
-## Here is a secondary heading
+## 这是一些大胆的文字
 
 Here's a useless table:
 
