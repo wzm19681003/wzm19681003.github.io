@@ -23,11 +23,11 @@ comments: true
 | 二 | 三 | 一 |
 
 
-How about a yummy crepe?
+一个美味的绉纱怎么样？
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-Here's a code chunk:
+这是一个代码块：
 
 ~~~
 var foo = function(x) {
@@ -36,7 +36,7 @@ var foo = function(x) {
 foo(3)
 ~~~
 
-And here is the same code with syntax highlighting:
+以下是语法高亮显示的相同代码：
 
 ```javascript
 var foo = function(x) {
@@ -45,8 +45,7 @@ var foo = function(x) {
 foo(3)
 ```
 
-And here is the same code yet again but with line numbers:
-
+以下是相同的代码，但排成一行：
 {% highlight javascript linenos %}
 var foo = function(x) {
   return(x + 5);
@@ -54,20 +53,20 @@ var foo = function(x) {
 foo(3)
 {% endhighlight %}
 
-## Boxes
-You can add notification, warning and error boxes like this:
+## 盒子
+您可以添加如下通知、警告和错误框：
 
-### Notification
+### 通知
 
 {: .box-note}
-**Note:** This is a notification box.
+**注意：** 这是一个通知框。
 
-### Warning
+### 警告
 
 {: .box-warning}
-**Warning:** This is a warning box.
+**警告:** 这是一个警告框。
 
 ### Error
 
 {: .box-error}
-**Error:** This is an error box.
+**错误:** 这是一个错误框。
