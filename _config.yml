@@ -4,7 +4,7 @@
 ＃ baseURL时是不带hostname该网站的网址
 
 ＃如果您正在构建一个简单的GitHub用户页面（https://username.github.io），请使用以下设置：
-url:https://wzm19681003.github.io
+url:https: "//wzm19681003.github.io"
 baseurl：/wzm19681003.github.io
 
 ＃如果您正在构建GitHub项目页面，请使用以下设置：
