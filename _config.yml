@@ -8,16 +8,16 @@ url: “ https://wzm19681003.github.io
 baseurl：/wzm19681003.github.io
 
 ＃如果您正在构建GitHub项目页面，请使用以下设置：
-＃网址： “http://wzm19681003.github.io/projectname”
-＃的BaseURL： “/项目名”
+＃网址： “http://wzm19681003.github.io/wgit”
+＃的BaseURL： /wgit
 
 ＃当然不要忘记将用户名和项目名称更改为您的用户名和项目
 
 ＃网站名称
-标题：wzm的网站
+title: 我的网站
 
 ＃您网站的简短说明
-description：名称很棒的虚拟证明！
+description：工作和学习
 
 ＃ ---导航栏选项---＃
 
