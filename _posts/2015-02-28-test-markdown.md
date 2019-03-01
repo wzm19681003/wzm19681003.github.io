@@ -13,14 +13,14 @@ comments: true
 
 ## 这是一些大胆的文字
 
-Here's a useless table:
+这是一个无用的表：
 
-| Number | Next number | Previous number |
+| 数字 | 下一个数字 | 以前的数字 |
 | :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+| 五 | 六 | 四 |
+| 十 | 七 | 九 |
+| 七 | 八 | 六 |
+| 二 | 三 | 一 |
 
 
 How about a yummy crepe?
