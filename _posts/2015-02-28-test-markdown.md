@@ -2,7 +2,7 @@
 layout: post
 title: 测试 markdown
 subtitle: 每一个帖子还有一个副标题
-gh-repo: daattali/beautiful-jekyll
+gh-repo: wzm19681003/wgit
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
