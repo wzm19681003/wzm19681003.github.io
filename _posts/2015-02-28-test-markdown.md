@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: 测试 markdown
+subtitle: 每一个帖子还有一个副标题
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
