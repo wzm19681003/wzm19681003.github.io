@@ -4,11 +4,11 @@
 ＃ baseURL时是不带hostname该网站的网址
 
 ＃如果您正在构建一个简单的GitHub用户页面（https://username.github.io），请使用以下设置：
-网址：“ https://wzm19681003.github.io ”
+url: “ https://wzm19681003.github.io ”
 baseurl：“ ”
 
 ＃如果您正在构建GitHub项目页面，请使用以下设置：
-＃网址： “http://username.github.io/projectname”
+＃网址： “http://wzm19681003.github.io/projectname”
 ＃的BaseURL： “/项目名”
 
 ＃当然不要忘记将用户名和项目名称更改为您的用户名和项目
@@ -23,16 +23,16 @@ description：名称很棒的虚拟证明！
 
 ＃导航栏中的链接列表
 navbar-links：
-  关于我：“ aboutme ”
-  资源：
-    - 美丽的杰基尔：“ http://deanattali.com/beautiful-jekyll/ ”
+  About Me: ：“ aboutme ”
+  Resources:
+    - Beautiful Jekyll: ：“ http://deanattali.com/beautiful-jekyll/ ”
     - 学习：“ http://www.markdowntutorial.com/ ”
     - GitHub页面：“ https://pages.github.com/ ”
   作者的家：“ http://deanattali.com ”
 
 ＃图像显示在导航栏中 - 图像必须是正方形（宽度=高度）
 ＃如果您不想在导航栏中显示图像，请删除此参数
-头像：“/ img / avatar- icon.png ”
+avatar: “/ img / avatar- icon.png ”
 
 ＃如果您想在左上角而不是标题文字中添加图像徽标，
 ＃然后指定以下参数
@@ -64,15 +64,15 @@ footer-link-col：“＃404040 ”
 ＃更改所有这些值或删除您不想要的值。
 ＃重要提示：您必须保留“名称”参数，您可以删除其他所有内容
 作者：
-  名字：wzm
+  名字：王卓民
 
 ＃选择您的活跃社交网络链接。
 ＃取消注释要在页脚中显示的链接，并将信息添加到每个链接。
 ＃您可以重新排序项目以定义链接顺序。
 ＃如果你想添加一个不在这里的新链接，你还需要编辑文件_data / SocialNetworks.yml
 社交网络链接：
-  rss：是的
-  电子邮件：“ someone@example.com ”
+  rss：true
+  email: “ 1175102577@qq.com ”
   facebook：daattali
   github：daattali
   twitter：daattali
@@ -92,14 +92,14 @@ footer-link-col：“＃404040 ”
 
 ＃选择要在帖子中显示的共享链接
 share-links-active：
-  twitter：是的
-  facebook：是的
-  谷歌：假
-  linkedin：是的
+  twitter：true
+  facebook：true
+  google: false
+  linkedin：true
 
 ＃如何在页脚中显示指向网站的链接
 ＃如果您不想在页脚中添加链接，请将其删除
-网址漂亮：“ MyWebsite.com ”   ＃如。“deanattali.com/beautiful-jekyll”
+url-pretty: “ MyWebsite.com ”  # eg. “deanattali.com/beautiful-jekyll”
 
 ＃ ---网站统计科---＃
 
@@ -130,15 +130,15 @@ share-links-active：
 ＃ fb_comment_id： “”
 
 ＃ Staticman支持
-静态的：
-  库：＃ GitHub上的用户名/库如。“daattali /美丽，化身”
-  分支     ：＃如。“master”如果你没有使用`master`分支，那么你还需要更新`staticman.yml`中的`branch`参数。
-  endpoint   ：＃自己部署的URL（带斜杠）（将回退到公共GitLab实例）
-  reCaptcha：
+staticman:
+repository : ＃ GitHub上的用户名/库如。“daattali /美丽，化身”
+branch      ：＃如。“master”如果你没有使用`master`分支，那么你还需要更新`staticman.yml`中的`branch`参数。
+endpoint   ：＃自己部署的URL（带斜杠）（将回退到公共GitLab实例）
+reCaptcha：
     ＃验证码为Staticman（OPTIONAL）
     ＃如果使用reCaptcha，还必须在staticman.yml中设置这些参数
-    siteKey  ：＃使用您自己的网站密钥，您需要在Google上申请一个
-    秘密   ：＃转到https://staticman3.herokuapp.com/v3/encrypt/ <your-site-secret>来加密密码
+   siteKey  ：＃使用您自己的网站密钥，您需要在Google上申请一个
+   secret   ：＃转到https://staticman3.herokuapp.com/v3/encrypt/ <your-site-secret>来加密密码
 
 ＃ ---其他---＃
 
@@ -156,53 +156,53 @@ title-separator：“ - ”
 ＃ ---不需要触摸下面的任何东西（但如果你愿意，你也可以）---＃
 
 ＃输出选项（有关Jekyll网站的更多信息）
-时区：“美国/温哥华”
-降价：kramdown
-荧光笔：胭脂
-永久链接：/：year-：month-：day-：title /
-paginate：5
+timezone: "America/Vancouver"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
 
 kramdown：
-  输入：GFM
+  input: GFM
 
 ＃默认YAML值（有关Jekyll网站的更多信息）
-默认值：
+defaults:
   - 
-    范围：
-      路径：“ ”
-      类型：“帖子”
-    价值观：
-      布局：“发布”
-      评论：true   ＃为所有博客帖子添加评论
-      social-share：true ＃将社交媒体分享按钮添加到所有博客帖子
-  - 
-    范围：
-      路径：“ ”  ＃所有文件
-    价值观：
-      布局：“页面”
-      show-avatar：是的
+ scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+ scope:
+      path: "" # all files
+    values:
+      layout: "page"
+      show-avatar: true
 
 ＃使用标签索引页面并在每个帖子上点击标签
 link-tags：true
 
 ＃从生产站点中排除这些文件
-排除：
+exclude:
   - CHANGELOG.md
   - CNAME
   - Dockerfile
   - Gemfile
   - Gemfile.lock
-  - 许可证
+  - LICENSE
   - README.md
   - Vagrantfile
 
 # profile.io config
-散文：
-  rooturl：' _ postts '
-  媒体：' img '
-  忽略：
+prose:
+  rooturl: '_posts'
+  media: 'img'
+  ignore:
     - 404.html
-    - 许可证
+    - LICENSE
     - feed.xml
     - _config.yml
     - / _layouts
@@ -210,45 +210,45 @@ link-tags：true
     - / css
     - / img
     - / js
-  元数据：
+ metadata:
     _posts：
-      - 名称：“布局”
-        领域：
-          元素：“隐藏”
-          价值：“发布”
-      - 名称：“标题”
-        领域：
-          元素：“文字”
-          标签：“帖子标题”
-          占位符：“标题”
-          可变的：真的
-      - 名称：“副标题”
-        领域：
-          元素：“ textarea ”
-          标签：“字幕”
-          占位符：“您对帖子的描述。”
-          可变的：真的
-      - 名称：“日期”
-        领域：
-          元素：“文字”
-          标签：“日期”
-          帮助：“输入发布日期。”
-          占位符：“ yyyy-mm-dd ”
-          可变的：真的
-      - 名称：“图像”
-        领域：
-          元素：“文字”
-          标签：“图片”
-          帮助：“将缩略图添加到帖子中。”
-          占位符：“缩略图”
-          可变的：真的
-      - 名称：“已发布”
-        领域：
-          元素：“复选框”
-          标签：“发布”
-          帮助：“检查发布帖子，取消选中隐藏。”
+       - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+          placeholder: "Title"
+          alterable: true
+      - name: "subtitle"
+        field:
+          element: "textarea"
+          label: "Subtitle"
+          placeholder: "A description of your post."
+          alterable: true
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          help: "Enter date of post."
+          placeholder: "yyyy-mm-dd"
+          alterable: true
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image"
+          help: "Add a thumbnail image to your post."
+          placeholder: "Thumbnail"
+          alterable: true
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish"
+          help: "Check to publish post, uncheck to hide."
 
-插件：
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
