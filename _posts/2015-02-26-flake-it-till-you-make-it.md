@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: 绝非天赋
+subtitle: 摘自斯科特.考夫曼的《绝非天赋》
 bigimg: /img/path.jpg
 tags: [books, test]
 ---
