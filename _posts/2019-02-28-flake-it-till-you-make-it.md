@@ -6,10 +6,31 @@ bigimg: /img/path.jpg
 tags: [books, test]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+智力测量
+斯科特.考夫曼认为：智力是在追寻个人目标过程中，投入和能力的动态互动。在任何情况下，都不应该将一个人的行为与另一个人的做比较，因为此人的智力并不是以他人的行为做参照进行衡量或判断的。                        ------《绝非天赋》第345页
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+斯科特的理论有四个中心原则，并认为这些原则对社会和教育会有重大影响。
+一、自我是人类智力的核心方面。如果要正真了解一个人的目标以及这个人表现出来的智力行为，对自我的思考和个人表现自我的需要，是必不可少的。
+二、在人的发展中，投入和能力是不可分的，我们在参与到这个世界中时，投入和能力是相辅相成的。我们的兴趣和热情让我们注意刺激的一个重要方面，并忽略其他方面。重要的是，我们不断地投入建立起了知识库，这种知识库让我们实现越来越高的表现水平。关键的是，每个人都可以混合或搭配其个人独特的特征组合，以达到相同的结果，甚至可以打造一条新的道路。
+三、受控和自发的认知过程都可以适应个人的目标获得。这与传统中对智力的认识相背离。一旦我们考虑到他人（父母，老师）目标以外的个人目标时，我们便发现了更大范围的自发认识过程的适应值，这些过程有空想、假装游戏、自发创意生成和直觉。
+重点不在于将一些认知过程归类为比其他认知过程更为智能或理性的一类，而在于灵活性认知。尽管有时很有必要让受控认知过程抑制可能会妨碍智力行为的熟知模式的开启，有时让自发认知过程表现出来是同样聪明的。
+有时，通过允许自己忽略内心的批评（以及他人的批评），并采取冒进的行为来达到实现自信的目的是很理性的。如我们在第12章所见积极分裂症特征，如相信直觉和所谓不切实际的幻想等，并非总是不理性的，甚至从斯坦诺维其的理性概念上讲也是如此，这些对于实现个人目标是有益的。我们知道，相信直觉与潜伏抑制的减少有关，这种潜伏抑制的减少与更高水平的创造性成就有关，尤其是在艺术方面。当这些认知过程在正确的时候启用，并且让个人不仅仅能实现自己的目标时，这些认知过程就是十分聪明且理性的了。
+四、没有“10年法则”或“创造力门槛”这样的东西。
+潜力是一个不停活动的目标。我们参与某事越多，潜力也就随之增加。最近关于人类发展的动态、非线性及概率的本质表明，对潜力的最佳理解是参与意愿。
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+   天才能够不断产生伟大的作品是一个迷。大多数创造者，包括我们称为“天才”的人的产出，都倾向于参差不齐。专门知识的关键在于一致性，但伟大的关键在于量。根据“平等几率规则”，质量是数量的线性功能，即你创造得越多（不管质量如何），你产生杰作的可能性就越大。
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+   未来项目不要求学生列举他们的成绩和测试分数，而是让学生谈论他们的激情、梦想和最大胆的目标。如果他梦想养什么动物，你就问养动物是为了观察他有什么行为，或断定它会做出什么举动而感到兴奋。你可以接着鼓励他研究自己为什么会有这样那样的行为，也鼓励他问“如果…会如何”的问题，并想出办法来对他的问题进行实验。对研究自己的行为产生兴趣，就向正确的方向发展了！
+   其中有一个8-10岁学生组成的小组已经把他们的关于大黄蜂的研究成果发表在权威杂志《生物学快报》上，由25名10岁以下的儿童所写的介绍一项十分独特发现的科学论文发表在顶尖学术期刊上，这是史无前例的。
+    我们应当找回学习的快乐，你之所以想学习是因为你想学而不是因为有人会在学期末给你打分。
+
+   没人不做白日梦。（需要正确看待孩子的白日梦）
+   美国心理学奠基人威廉。詹姆斯曾一度被指责有些“心不在焉”，他打趣地说，他只不过是“全神贯注”于自己的思考中。               第286页
+   
+   当我们布置给人们占据了他们外部注意任务时，我们也许正在剥夺他们想象自己未来的机会。                                 第293页
+   
+   托兰斯创造性思维测验,简称TTCT   第319-321页
+   智商和创造力是否相关     第325
+   波赛基金会               第328
+   人们可以通过学会使用图标来描述问题,提高推理能力.。肯尼思•吉尔胡利和同事曾口头描绘了一个三段论，这对工作记忆提出的要求更高了，因为参与者必须将前提记在脑子里。但是当用投影仪展示前提时，参与者的表现更好了，因为这样他们可以从工作记忆里将前提释放出去，从而解放有限的资源来构建有效的心理模型。第236
+
