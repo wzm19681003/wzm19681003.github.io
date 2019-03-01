@@ -1,174 +1,174 @@
-＃ ---一般选项---＃
+# --- General options --- #
 
-＃ url是完整的网站网址
-＃ baseURL时是不带hostname该网站的网址
+# url is the full website URL
+# baseurl is the website's URL without the hostname
 
-＃如果您正在构建一个简单的GitHub用户页面（https://username.github.io），请使用以下设置：
+# If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 url: "https://wzm19681003.github.io"
-baseurl："wzm19681003.github.io"
+baseurl: "wzm19681003.github.io"
 
-＃如果您正在构建GitHub项目页面，请使用以下设置：
-＃网址： “http://wzm19681003.github.io/wgit”
-＃的BaseURL： /wgit
+# If you are building a GitHub project page then use these settings:
+#url: "http://username.github.io/projectname"
+#baseurl: "/projectname"
 
-＃当然不要忘记将用户名和项目名称更改为您的用户名和项目
+# Of course don't forget to change the username and projectname to YOUR username and project
 
-＃网站名称
+# Name of website
 title: 我的网站
 
-＃您网站的简短说明
-description：工作和学习
+# Short description of your site
+description: A virtual proof that name is awesome!
 
-＃ ---导航栏选项---＃
+# --- Navigation bar options --- #
 
-＃导航栏中的链接列表
-navbar-links：
-  About Me: ：“ aboutme ”
+# List of links in the navigation bar
+navbar-links:
+  About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: ：“ http://deanattali.com/beautiful-jekyll/ ”
-    - 学习：“ http://www.markdowntutorial.com/ ”
-    - GitHub页面：“ https://pages.github.com/ ”
-  作者的家：“ http://deanattali.com ”
+    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+    - GitHub Pages: "https://pages.github.com/"
+  Author's home: "http://deanattali.com"
 
-＃图像显示在导航栏中 - 图像必须是正方形（宽度=高度）
-＃如果您不想在导航栏中显示图像，请删除此参数
-avatar: “/ img / avatar- icon.png ”
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/img/avatar-icon.png"
 
-＃如果您想在左上角而不是标题文字中添加图像徽标，
-＃然后指定以下参数
-＃ title-img：/ path / to / image
+# If you want to have an image logo in the top-left corner instead of the title text,
+# then specify the following parameter
+# title-img: /path/to/image
 
-＃ ---背景颜色/图像选项---＃
+# --- Background colour/image options --- #
 
-＃个性化您网站的颜色。颜色值可以是任何有效的CSS颜色
+# Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col：“＃F5F5F5 ”
-navbar-text-col：“＃404040 ”
-navbar-children-col：“＃F5F5F5 ”
-page-col：“＃FFFFFF ”
-link-col：“＃008AFF ”
-hover-col：“＃0085A1 ”
-footer-col：“＃F5F5F5 ”
-footer-text-col：“＃777777 ”
-footer-link-col：“＃404040 ”
+navbar-col: "#F5F5F5"
+navbar-text-col: "#404040"
+navbar-children-col: "#F5F5F5"
+page-col: "#FFFFFF"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#F5F5F5"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
 
-＃或者，可以将导航栏，页脚和页面背景设置为使用背景图像
-＃而不是颜色
+# Alternatively, the navbar, footer, and page background can be set to use background images
+# instead of colour
 
-＃ navbar-img：“/ img / bgimage.png”
-＃ footer-img：“/ img / bgimage.png”
-# page-img：“/ img / bgimage.png”
+# navbar-img: "/img/bgimage.png"
+# footer-img: "/img/bgimage.png"
+# page-img: "/img/bgimage.png"
 
-＃ ---页脚选项---＃
+# --- Footer options --- #
 
-＃更改所有这些值或删除您不想要的值。
-＃重要提示：您必须保留“名称”参数，您可以删除其他所有内容
+# Change all these values or delete the ones you don't want.
+# Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: 王卓民
+  name: Some Person
 
-＃选择您的活跃社交网络链接。
-＃取消注释要在页脚中显示的链接，并将信息添加到每个链接。
-＃您可以重新排序项目以定义链接顺序。
-＃如果你想添加一个不在这里的新链接，你还需要编辑文件_data / SocialNetworks.yml
-社交网络链接：
-  rss：true
-  email: “ 1175102577@qq.com ”
-  facebook：daattali
-  github：daattali
-  twitter：daattali
-＃   reddit的：提供yourname
-＃   google-plus：+ DeanAttali
-＃   LinkedIn：daattali
-＃   兴：提供yourname
-＃   计算器： “3943160 / daattali”
-＃   snapchat：deanat78
-＃   的Instagram：deanat78
-＃   YouTube的：用户/ deanat78
-＃   Spotify的：提供yourname
-＃   电话：14159998888
-＃   汽：deanat78
-＃   抽搐：提供yourname
-＃   喊叫：提供yourname
+# Select your active Social Network Links.
+# Uncomment the links you want to show in the footer and add your information to each link.
+# You can reorder the items to define the link order.
+# If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
+social-network-links:
+  rss: true
+  email: "someone@example.com"
+  facebook: daattali
+  github: daattali
+  twitter: daattali
+#  reddit: yourname
+#  google-plus: +DeanAttali
+#  linkedin: daattali
+#  xing: yourname
+#  stackoverflow: "3943160/daattali"
+#  snapchat: deanat78
+#  instagram: deanat78
+#  youtube: user/deanat78
+#  spotify: yourname
+#  telephone: +14159998888
+#  steam: deanat78
+#  twitch: yourname
+#  yelp: yourname
 
-＃选择要在帖子中显示的共享链接
-share-links-active：
-  twitter：true
-  facebook：true
+# Select which share links to show in posts
+share-links-active:
+  twitter: true
+  facebook: true
   google: false
-  linkedin：true
+  linkedin: true
 
-＃如何在页脚中显示指向网站的链接
-＃如果您不想在页脚中添加链接，请将其删除
-url-pretty: “ MyWebsite.com ”  # eg. “deanattali.com/beautiful-jekyll”
+# How to display the link to the website in the footer
+# Remove this if you don't want a link in the footer
+url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
-＃ ---网站统计科---＃
+# --- Web Statistics Section --- #
 
-＃填写您的Google Analytics（分析）gtag.js ID，以使用gtag跟踪您的网站
-＃ GTAG： “”
+# Fill in your Google Analytics gtag.js ID to track your website using gtag
+#gtag: ""
 
-＃填写您的Google Analytics ID以使用GA跟踪您的网站
-＃ google_analytics： “”
+# Fill in your Google Analytics ID to track your website using GA
+#google_analytics: ""
 
-＃谷歌代码管理工具ID
-＃ GTM： “”
+# Google Tag Manager ID
+#gtm: ""
 
-＃ Matomo（又名Piwik）网站统计
-＃取消注释以下部分以启用Matomo。选择退出参数控制
-＃是否要允许用户选择退出跟踪。
+# Matomo (aka Piwik) Web statistics
+# Uncomment the following section to enable Matomo. The opt-out parameter controls
+# whether or not you want to allow users to opt out of tracking.
 
-＃ matomo：
-＃   SITE_ID： “9”
-＃   URI： “demo.wiki.pro”
-＃   opt-out：true
+#matomo:
+#  site_id: "9"
+#  uri: "demo.wiki.pro"
+#  opt-out: true
 
-＃ ---评论---＃
+# --- Comments --- #
 
-＃如果你想支持Disqus评论，请填写你的Disqus短名称（不是用户名）
-＃ disqus： “”
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+# disqus: ""
 
-＃要使用Facebook评论，请填写Facebook App ID
-＃ fb_comment_id： “”
+# To use Facebook Comments, fill in a Facebook App ID
+# fb_comment_id: ""
 
-＃ Staticman支持
+# Staticman support
 staticman:
-repository : ＃ GitHub上的用户名/库如。“daattali /美丽，化身”
-branch      ：＃如。“master”如果你没有使用`master`分支，那么你还需要更新`staticman.yml`中的`branch`参数。
-endpoint   ：＃自己部署的URL（带斜杠）（将回退到公共GitLab实例）
-reCaptcha：
-    ＃验证码为Staticman（OPTIONAL）
-    ＃如果使用reCaptcha，还必须在staticman.yml中设置这些参数
-   siteKey  ：＃使用您自己的网站密钥，您需要在Google上申请一个
-   secret   ：＃转到https://staticman3.herokuapp.com/v3/encrypt/ <your-site-secret>来加密密码
+  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  branch     : # eg. "master" If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+  endpoint   : # URL of your own deployment (with trailing slash) (will fallback to a public GitLab instance)
+  reCaptcha:
+    # reCaptcha for Staticman (OPTIONAL)
+    # If you use reCaptcha, you must also set these parameters in staticman.yml
+    siteKey  : # Use your own site key, you need to apply for one on Google
+    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
-＃ ---其他---＃
+# --- Misc --- #
 
-＃ Facebook的应用程序ID
-＃ fb_app_id： “”
+# Facebook App ID
+# fb_app_id: ""
 
-＃摘录字长
-＃将摘录截断到索引页面上指定的单词数
-excerpt_length：50
+# Excerpt Word Length
+# Truncates the excerpt to the specified number of words on the index page
+excerpt_length: 50
 
-＃用于分隔HTML文档标题中的网站标题和描述的字符
-＃和RSS提要标题
-title-separator：“ - ”
+# Character used to separate site title and description in HTML document title
+# and RSS feed title
+title-separator: "-"
 
-＃ ---不需要触摸下面的任何东西（但如果你愿意，你也可以）---＃
+# --- Don't need to touch anything below here (but you can if you want) --- #
 
-＃输出选项（有关Jekyll网站的更多信息）
+# Output options (more information on Jekyll's site)
 timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
 
-kramdown：
+kramdown:
   input: GFM
 
-＃默认YAML值（有关Jekyll网站的更多信息）
+# Default YAML values (more information on Jekyll's site)
 defaults:
-  - 
- scope:
+  -
+    scope:
       path: ""
       type: "posts"
     values:
@@ -176,16 +176,16 @@ defaults:
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
   -
- scope:
+    scope:
       path: "" # all files
     values:
       layout: "page"
       show-avatar: true
 
-＃使用标签索引页面并在每个帖子上点击标签
-link-tags：true
+# Use tags index page and make tags on each post clickable
+link-tags: true
 
-＃从生产站点中排除这些文件
+# Exclude these files from production site
 exclude:
   - CHANGELOG.md
   - CNAME
@@ -196,7 +196,7 @@ exclude:
   - README.md
   - Vagrantfile
 
-# profile.io config
+# prose.io config
 prose:
   rooturl: '_posts'
   media: 'img'
@@ -205,14 +205,14 @@ prose:
     - LICENSE
     - feed.xml
     - _config.yml
-    - / _layouts
-    - / _include
-    - / css
-    - / img
-    - / js
- metadata:
-    _posts：
-       - name: "layout"
+    - /_layouts
+    - /_includes
+    - /css
+    - /img
+    - /js
+  metadata:
+    _posts:
+      - name: "layout"
         field:
           element: "hidden"
           value: "post"
@@ -252,5 +252,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-＃美丽的化身/院长阿塔利
-＃ 2fc73a3a967e97599c9​​763d05e564189
+# Beautiful Jekyll / Dean Attali
+# 2fc73a3a967e97599c9763d05e564189
