@@ -8,7 +8,7 @@ tags: [test]
 comments: true
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - 它将教你如何将常规文本转换为粗体/斜体/标题/表格等。
+你可以在这里写常规文字， [markdown](http://markdowntutorial.com/) Jekyll会自动将它转换成一个漂亮的网页  我强烈建议你花5分钟学习如何用降价来写 [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - 它将教你如何将常规文本转换为粗体/斜体/标题/表格等。
 **Here is some bold text**
 
 ## 这是一些大胆的文字
