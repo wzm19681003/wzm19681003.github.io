@@ -17,13 +17,13 @@ baseurl: "wzm19681003.github.io"
 title: 我的网站
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: 王卓民
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "关于我"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
