@@ -24,8 +24,8 @@ description: 王卓民
 # List of links in the navigation bar
 navbar-links:
   About Me: "关于我"
-  Resources:
-    - Learn Scoot: "https://www.scottbarrykaufman.com/"
+  学习资源:
+    - 找斯科特学点什么: "https://www.scottbarrykaufman.com/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   我的家: "http://www.qzjs.gov.cn/"
