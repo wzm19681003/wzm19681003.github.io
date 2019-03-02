@@ -26,8 +26,8 @@ navbar-links:
   About Me: "关于我"
   学习资源:
     - 找斯科特学点什么: "https://www.scottbarrykaufman.com/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - 学习 markdown: "http://www.markdowntutorial.com/"
+    - GitHub 页面: "https://pages.github.com/"
   我的家: "http://www.qzjs.gov.cn/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
