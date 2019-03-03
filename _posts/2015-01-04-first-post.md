@@ -1,7 +1,8 @@
 ---
 layout: post
-title: First post!
+title: 我对游戏的看法
 image: /img/hello_world.jpeg
 ---
 
-This is my first post, how exciting!
+我对游戏的看法
+
