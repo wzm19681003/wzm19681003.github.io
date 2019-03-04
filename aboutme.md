@@ -4,12 +4,13 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+实现梦想的办法：
+要想实现梦想，不是摒弃乐观的幻想，而是将其改进、完善，好好利用，用他来对抗我们久已忽视或蔑视的东西；梦想路上的障碍。
+世界著名心理学家Gabriele Oettingen认为：“让人们行动起来的最好办法是让他们心怀梦想，然后立刻将阻碍梦想实现的现实放在他们面前。我将二者的对峙称作“心理比对”。通过“心理比对”，我可以将幻想放在现实的基础之上，避开其令人松懈的副作用，将其作为一个工具，唤起人行动的动力。（第79页）
+实现梦想的方法,不是把障碍拨到一边，只是看到自己的愿望,而是把两者同时考虑，合二为一:先关注愿望,再考虑现实，只要能做到这一点，美好的事情就会发生。你独自一人就能全力以赴追逐那些你认为有能力达成的愿望，并面对那些无法达成的愿望的现实本质。
+我下面介绍给你一个国际心理学界普遍认可的一个实现梦想的辅助工具，全球著名心理学家Gabriele Oettingen(加布里埃尔•厄廷根)经过20年的研究和心理学实验，找到了实现梦想的辅助工具---- WOOP训练。
+我自己也试验了一下，非常有效，改善了我多年的陋习。
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
 
 ### my history
 
