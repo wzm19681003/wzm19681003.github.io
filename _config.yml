@@ -248,6 +248,10 @@ prose:
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
 
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: blue
+
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -257,7 +261,6 @@ plugins:
 #加分页功能
 paginate: 5
 
-# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+
 
 
