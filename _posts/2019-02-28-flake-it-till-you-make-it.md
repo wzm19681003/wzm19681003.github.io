@@ -1,4 +1,4 @@
-![](http://github.com/wzm19681003/wzm19681003.github.io/blob/gh-pages/img/path.jpg)
+![](http://github.com/wzm19681003/wzm19681003.github.io/blob/gh-pages/img/path.jpg)[http://github.com/wzm19681003/wzm19681003.github.io/blob/gh-pages/img/path.jpg](http://github.com/wzm19681003/wzm19681003.github.io/blob/gh-pages/img/path.jpg)
 ---
 layout: post
 title: 绝非天赋
