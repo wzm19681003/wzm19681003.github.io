@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-ruby: "http://lrthw.github.io/intro"  # eg. "deanattali.com/beautiful-jekyll"
+url-ruby: "http://lrthw.github.io/intro"  # eg. "deanattali.com/beautiful-jekyll" 改了没用？
 
 # --- Web Statistics Section --- #
 
