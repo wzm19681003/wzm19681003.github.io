@@ -23,7 +23,7 @@ description: 王卓民
 
 # List of links in the navigation bar
 navbar-links:
-  关于我: "http://github.com/wzm19681003/wzm19681003.github.io/raw/master/aboutme.md/"
+  关于我: "http://github.com/wzm19681003/wzm19681003.github.io/master/aboutme.md/"
   学习资源:
     - 找斯科特学点什么: "http://www.scottbarrykaufman.com/"
     - 学习 markdown: "http://www.markdowntutorial.com/"
