@@ -3,6 +3,7 @@ layout: post
 title: 我对游戏的看法
 image: /img/hello_world.jpeg
 ---
+![Alt text](https://github.com/wzm19681003/wzm19681003.github.io/raw/master/img/path.jpg )
 
 我对游戏的看法
 
