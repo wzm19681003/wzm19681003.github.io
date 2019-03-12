@@ -258,9 +258,6 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-#加分页功能
-paginate: 5
-
 
 baidu:
     id: be68e29f174044e797b381f5a15c80bf
