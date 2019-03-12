@@ -12,6 +12,6 @@ subtitle: 我的心理学训练
 我自己也试验了一下，非常有效，改善了我多年的陋习。
 
 
-### my history
+### 我的历史
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+诚实地讲，我是跟他学编程的，如果你想更深入地了解我是怎么学的，为什么不去看看他！  [我的老师](https://first20hours.com/) 他将回答你对我 **all** 所有的困惑。
