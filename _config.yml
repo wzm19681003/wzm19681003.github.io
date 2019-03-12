@@ -23,9 +23,9 @@ description: 王卓民
 
 # List of links in the navigation bar
 navbar-links:
-  关于我: "关于我"
+  关于我: "github.com/wzm19681003/wzm19681003.github.io/aboutme.md"
   学习资源:
-    - 找斯科特学点什么: "https://www.scottbarrykaufman.com/"
+    - 找斯科特学点什么: "www.scottbarrykaufman.com/"
     - 学习 markdown: "http://www.markdowntutorial.com/"
     - GitHub 页面: "https://pages.github.com/"
   我的家: "http://www.qzjs.gov.cn/"
