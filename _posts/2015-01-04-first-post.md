@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 性格内外向自我评估问卷: (Marti Olsen Laney)
+title: 性格内外向自我评估问卷(Marti Olsen Laney)
 image: /fenj.jpg
 ---
 
