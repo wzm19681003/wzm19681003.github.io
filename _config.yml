@@ -157,12 +157,12 @@ title-separator: "-"
 
 # Output options (more information on Jekyll's site)
 timezone: "America/Vancouver"
-markdown: markdown
+markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 10
 
-kramdown:
+kramdown: 
   input: GFM
 
 # Default YAML values (more information on Jekyll's site)
