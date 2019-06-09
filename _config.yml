@@ -28,7 +28,7 @@ navbar-links:
     - 找斯科特学点什么: "http://www.scottbarrykaufman.com/"
     - 学习 markdown: "http://www.markdowntutorial.com/"
     - GitHub 页面: "https://pages.github.com/"
-  我的家: "http://www.qzjs.gov.cn/"
+  我的家: "http://zjj.qz.gov.cn/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
